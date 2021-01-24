@@ -3,4 +3,10 @@
 [INFO  - 2021-01-24T07:43:40.958Z] Session [e08d2fa0-5e17-11eb-a4e9-a715f1ab5f3c] - page.customHeaders:  - {}
 [INFO  - 2021-01-24T07:43:40.958Z] Session [e08d2fa0-5e17-11eb-a4e9-a715f1ab5f3c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
 [INFO  - 2021-01-24T07:43:40.958Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e08d2fa0-5e17-11eb-a4e9-a715f1ab5f3c
-[INFO  - 2021-01-24T07:43:58.972Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-01-24T07:48:40.643Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-01-24T07:53:40.658Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-01-24T07:58:40.671Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-01-24T08:03:40.686Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+ - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-01-24T07:58:34.593Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-01-24T08:03:34.603Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
